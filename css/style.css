@@ -25,4 +25,21 @@ main {
     width: 60%;
     margin: auto;
     margin-top: 20px;
+    border-radius: 5px;
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.add{
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 5px 5px;
+}
+
+.add-task{
+    background-color: lightskyblue;
 }
