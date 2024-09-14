@@ -77,12 +77,15 @@ main {
 }
 
 .tag{
-    background-color: lightblue;
     border-radius: 10px;
     text-align: center;
     font-size: xx-small;
     padding: 2px 10px;
     line-height: 15px;
+}
+
+.editorial, .sales {
+    background-color: lightblue;
 }
 
 .q1-goals{
