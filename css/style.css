@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header img{
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header{
+    background-color: white;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+main {
+    background-color: white;
+    font-family: "Poppins", sans-serif;
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+}
